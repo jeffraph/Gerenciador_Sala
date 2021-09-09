@@ -4,7 +4,7 @@
 
 Projeto feito junto com a Digital Innovation One e Santander BootCamp | FullStack Developer
 
-Esse projeto foi desenvolvido utilizando o maven com java.
+Esse projeto foi desenvolvido utilizando o maven com java e angular.
 
 
 
